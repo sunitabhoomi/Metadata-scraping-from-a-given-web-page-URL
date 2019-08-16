@@ -1,0 +1,14 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "Metadata scraping from a given web URL",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sunita",
+  "license": "ISC",
+  "dependencies": {
+    "open-graph": "^0.2.4"
+  }
+}
