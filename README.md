@@ -27,7 +27,7 @@ exports.getMetaDataPropertiesUsingOpenGraph = (req) => new Promise(function (res
 })
 
 
-INPUT 
+Input:
 
 {
 	"url":"https://github.com/"
@@ -35,7 +35,7 @@ INPUT
 
 
 
-OUTPUT
+Output
 
 {
     "url": "https://github.com",
