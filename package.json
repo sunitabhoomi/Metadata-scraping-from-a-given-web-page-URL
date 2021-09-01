@@ -9,6 +9,6 @@
   "author": "sunita",
   "license": "ISC",
   "dependencies": {
-    "open-graph": "^0.2.4"
+    "open-graph": "^0.2.6"
   }
 }
